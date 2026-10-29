@@ -22,6 +22,11 @@ This repository contains supplementary artifacts, telemetry analyses, survey ins
 
 Standalone playable builds for Windows, macOS, and Linux are host under the **[Releases Section](../../releases)** of this repository (Release: `Game Builds` / Tag: `demo`).
 
+For the anonymized peer review the alternative links are:
+* **Windows version:** https://drive.google.com/uc?export=download&id=13l32PycS9TPtvVD8dyHd_1abtjL4tTRd
+* **Mac version:** https://drive.google.com/uc?export=download&id=1FUkH4obnQAPyf4xVDdTWEssBrmhc9ZZO
+* **Linux version:** https://drive.google.com/uc?export=download&id=1q9YAZP3sYACvyf1WtGwExyYsjxaH4LOv
+
 ### Quick start instructions
 1. Navigate to **Releases** on the right sidebar and download the appropriate package for your system (`.zip`).
 2. **Extract/Unzip** the archive completely before running (the game will not launch properly from within a compressed folder).
